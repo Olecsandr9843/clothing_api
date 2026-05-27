@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',  # Додаємо DRF
     'api',             # Додаємо наш додаток
+    'pomylka'          # <---- Osyo
 ]
 
 # Налаштовуємо підключення до твоєї існуючої PostgreSQL
